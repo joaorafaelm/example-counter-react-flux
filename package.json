@@ -1,7 +1,7 @@
 {
-  "name": "Dashboard",
+  "name": "react-counter",
   "version": "0.1.0",
-  "main": "modules/router.js",
+  "main": "modules/app.jsx",
   "scripts": {
     "dev": "webpack-dev-server"
   },
